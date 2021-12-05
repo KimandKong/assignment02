@@ -49,7 +49,7 @@ i로 현위치에서 입력모드를 하여서 __"__ 를 입력하고 End키를 
 ### 문제2
 
 
-![과제1](https://user-images.githubusercontent.com/93643813/144736162-f3bba1ad-06e3-4e6a-8255-60be99004ec8.gif)
+![과제2](https://user-images.githubusercontent.com/93643813/144736721-c55a8829-4f44-4ec2-9ed8-cc8287f1652b.gif)
 
 
 * 최고 스코어 __27 points__ 
